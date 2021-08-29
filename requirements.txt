@@ -1,10 +1,13 @@
+tesseract
 pytesseract
-pytorch == 1.9.0
-re
-cv2
+Jinja2
+MarkupSafe
+Werkzeug
+gunicorn
+regex
+opencv-python
 numpy
 matplotlib
-transformers
 textblob
 streamlit
-tesseract
+Pillow
