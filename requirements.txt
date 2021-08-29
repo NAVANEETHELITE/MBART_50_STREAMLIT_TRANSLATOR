@@ -1,0 +1,9 @@
+pytesseract
+pytorch
+re
+cv2
+numpy
+matplotlib
+transformers
+textblob
+streamlit
