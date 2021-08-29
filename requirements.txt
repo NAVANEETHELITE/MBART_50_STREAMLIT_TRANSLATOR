@@ -12,4 +12,6 @@ textblob
 streamlit
 Pillow
 transformers == 4.9.2
-pytorch == 1.9.0
+conda install pytorch torchvision torchaudio cpuonly -c pytorch
+torchvision==0.2.2
+
