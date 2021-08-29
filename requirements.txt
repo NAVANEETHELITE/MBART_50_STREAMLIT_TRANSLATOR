@@ -7,3 +7,4 @@ matplotlib
 transformers
 textblob
 streamlit
+tesseract
