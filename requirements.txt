@@ -1,3 +1,4 @@
+-f https://download.pytorch.org/whl/torch_stable.html
 tesseract
 pytesseract
 Jinja2
@@ -12,7 +13,5 @@ textblob
 streamlit
 Pillow
 transformers == 4.9.2
--f https://download.pytorch.org/whl/torch_stable.html
-torch==1.6.0+cpu
-torchvision==0.7.0+cpu
-
+torch==1.5.0+cpu
+torchvision==0.6.0+cpu
