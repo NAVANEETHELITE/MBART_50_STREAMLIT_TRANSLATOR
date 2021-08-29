@@ -11,3 +11,4 @@ matplotlib
 textblob
 streamlit
 Pillow
+transformers == 4.9.2
