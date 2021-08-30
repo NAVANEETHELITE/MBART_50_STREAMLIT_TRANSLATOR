@@ -10,7 +10,7 @@ opencv-contrib-python-headless
 numpy
 matplotlib
 textblob
-streamlit
+streamlit==0.87.0
 Pillow
 transformers == 4.9.2
 torch==1.5.0+cpu
