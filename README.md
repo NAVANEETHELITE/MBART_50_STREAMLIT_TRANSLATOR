@@ -43,7 +43,7 @@ streamlit run app.py
 - Then deploy the app to cloud platforms but in our case, the free versions of Heroku and Streamlit Sharing won't handle whole 2.4GB pre-trained model (MBART-50).
 - The home and the output pages of the web app is shown below:
 <div class="row">
-    <img src="IMAGES/DEFAULT.png" title='HomePage' alt="index" style="width:80%">
+    <img src="IMAGES/DEFAULT.png" title='DEFAULT' alt="index" style="width:80%">
 </div>
 <div class="row">
     <img src="IMAGES/OUTPUT1.png" title='TEST1' alt="Translated" style="width:80%">
