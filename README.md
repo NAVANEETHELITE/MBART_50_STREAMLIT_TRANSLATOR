@@ -1,6 +1,6 @@
 # MBART_50_STREAMLIT_TRANSLATOR
 - <p>AN OCR AND MULTILINGUAL MACHINE TRANSLATOR USING 🤗<a href=https://huggingface.co/transformers/index.html>HUGGING FACE</a></P>
-- **Found an image with unknown language??** Use my application to extract and translate it to your languages.
+- **Found an image with unknown language??** Use my application to extract text from it and translate.
 - Upload a high quality image with proper font and get the required TRANSLATIONS.
 ### REQUIREMENTS:
 
