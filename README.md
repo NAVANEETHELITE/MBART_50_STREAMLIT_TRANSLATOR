@@ -1,5 +1,6 @@
 # MBART_50_STREAMLIT_TRANSLATOR
-- AN OCR AND MULTILINGUAL MACHINE TRANSLATOR - used for extracting text and translating it to required languages.
+- AN OCR AND MULTILINGUAL MACHINE TRANSLATOR USING 🤗HUGGING FACE.
+- **Found an image with unknown language??** Use my application to extract and translate it to your languages.
 - Upload a high quality image with proper font and get the required TRANSLATIONS.
 ### REQUIREMENTS:
 
@@ -27,6 +28,10 @@ conda install pytorch torchvision torchaudio cudatoolkit=10.2 -c pytorch
 PYTORCH - CPU ONLY VERSION:
 ```sh
 conda install pytorch torchvision torchaudio cpuonly -c pytorch
+```
+HUGGING FACE TRANSFORMERS 🤗:
+```sh
+pip install transformers
 ```
 STREAMLIT:
 ```sh
