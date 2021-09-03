@@ -39,7 +39,7 @@ run :
 streamlit run app.py
 ```
 - Your app will be hosted in the local server.
-- Then deploy the app to cloud platforms but free versions of Heroku and Streamlit Sharing won't handle whole 2.4GB pre-trained model.
+- Then deploy the app to cloud platforms but in our case, the free versions of Heroku and Streamlit Sharing won't handle whole 2.4GB pre-trained model (MBART-50).
 - The home page of the web app is shown below:
 <!-- <div class="row"> -->
 <!--     <img src="OUTPUT.png" title='HomePage' alt="index" style="width:30%"> -->
