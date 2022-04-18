@@ -56,3 +56,4 @@ streamlit run app.py
 <div class="row">
     <img src="IMAGES/OUTPUT2.png" title='TEST2' alt="Translated" style="width:100%">
 </div>
+
